@@ -8,5 +8,5 @@ Created to be used via console command.
 Has three parameters.
 
 Here is a full example of command:
-#### python script.py -f1 videos1 -f2 videos2 -m music
+*python script.py -f1 videos1 -f2 videos2 -m music*
 Where -f1 and -f2 – names of folders with videos. And -m name of folder with music.
